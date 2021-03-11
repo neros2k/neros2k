@@ -1,4 +1,3 @@
-### neros2k
 # Интересы
 - Java разрабтка ( BukkitAPI, JDA ( Java Discord Api ) )
 - Minecraft сервера, полноценные качественные проекты
