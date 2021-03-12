@@ -1,3 +1,4 @@
+[![Статистика](https://github-readme-stats.vercel.app/api?username=neros2k)](https://github.com/anuraghazra/github-readme-stats)
 # Интересы
 - Java разрабтка ( BukkitAPI, JDA ( Java Discord Api ) )
 - Minecraft сервера, полноценные качественные проекты
