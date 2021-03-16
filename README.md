@@ -10,4 +10,3 @@
 # 🚨Связь
 - Discord: neros2k#5361
 - Telegram: @ner2k
-Че
